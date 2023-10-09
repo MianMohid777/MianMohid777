@@ -22,9 +22,6 @@ public class HelloWorld {
         JButton btn = new JButton("Click Me !");
         JPanel helloPanel = new JPanel();
 
-
-
-
         ActionListener a = new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
